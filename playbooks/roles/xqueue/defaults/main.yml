@@ -126,7 +126,7 @@ XQUEUE_GIT_IDENTITY: !!null
 XQUEUE_REPOS:
   - PROTOCOL: "{{ COMMON_GIT_PROTOCOL }}"
     DOMAIN: "{{ COMMON_GIT_MIRROR }}"
-    PATH: "akiasankun"
+    PATH: "akirasankun"
     REPO: xqueue.git
     VERSION: "{{ XQUEUE_VERSION }}"
     DESTINATION: "{{ xqueue_code_dir }}"

@@ -128,7 +128,7 @@ XQUEUE_REPOS:
     DOMAIN: "{{ COMMON_GIT_MIRROR }}"
     PATH: "akirasankun"
     REPO: xqueue.git
-    VERSION: "{{ XQUEUE_VERSION }}"
+    VERSION: "open-release/ironwood.1"
     DESTINATION: "{{ xqueue_code_dir }}"
     SSH_KEY: "{{ XQUEUE_GIT_IDENTITY }}"
 
